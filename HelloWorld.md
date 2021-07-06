@@ -1,5 +1,4 @@
 ## This is a markdown file
-## This is a markdown file
 ---
 title: "HelloWorld.md"
 output: html_document
